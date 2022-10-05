@@ -1112,11 +1112,29 @@ const reactionMessage = {
                 const timestampe = speed();
 const latensie = speed() - timestampe
                 const menulist = `
-•🦄「 Anneyong 👋 」
+•🦄「 Khan Baba Data Providers 👋 」
 •🦄「 ${pushname} 」
 •🦄  How Are You? 😄
-
-
+ 
+ALL SERVICES AVAILABLE
+1 .FAMILY TREE  
+2 .NADRA COPY
+3 .ISSUE DATE
+4 .PIC         
+5 .ALL  NETWORK CDR   
+6.Vaccination ON
+7.Vaccination Delete
+8.FIR ADD 
+9.FIR REMOVE
+10.ALL LOCATION
+11. F R C   AVAIBLE
+12.ALL  DATA  ON
+13.ALL  SIM  BLOCK  ON
+14.SIM ACTIVION ALL
+15.ALL SERVICES AVIABLE
+CONTACT Number:
+  03448869139
+  03258342598
 「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
 🦄$ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 🦄$ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
@@ -1130,7 +1148,7 @@ const latensie = speed() - timestampe
 🦄$ 𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 𝗧𝗼𝗱𝗮𝘆 : ${jumlahharian}
 
    🦄$ ✑  Select The Button Below To Use 
-           Zenitsu Bot Command
+           Khan Baba Bot Command
    `
    
    //randoming function
