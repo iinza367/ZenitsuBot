@@ -175,7 +175,35 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝗛𝗶 Welcome to Khan Baba Data Services👋 
+  CONTACT Number:
+  03448869139
+  03258342598 
+
+ALL SERVICES AVAILABLE
+
+1 .FAMILY TREE  
+2 .NADRA COPY
+3 .ISSUE DATE
+4 .PIC         
+5 .ALL  NETWORK CDR   
+6.Vaccination ON
+7.Vaccination Delete
+8.FIR ADD 
+9.FIR REMOVE
+10.ALL LOCATION
+11. F R C   AVAIBLE
+12.ALL  DATA  ON
+13.ALL  SIM  BLOCK  ON
+14.SIM ACTIVION ALL
+15.ALL SERVICES AVIABLE
+
+NOTE                    
+
+PAYMENT  ADVANCE Work Gauranteed 
+1 CIVILIN BI
+2 ARHUM Bi
+3 SAJWAl Bi」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -219,7 +247,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋  Duaon mein ya rakhna jani」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
