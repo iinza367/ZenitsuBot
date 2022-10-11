@@ -175,11 +175,16 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 This is Sardar Sohail
-Only sms
-No Time Waste
-No call
-Otherwise AutoBlock」
+│「 𝗛𝗶 This is 🗼🗼SARDAR 🗼🗼 SOHAIL   KASHMIRI                  
+
+NO    CALL    
+
+NO   DisturB
+
+ONLY   SMS   
+
+
+10  30 pm   Sa  7   30 am    duty  timing」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
